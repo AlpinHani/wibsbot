@@ -1,20 +1,20 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = ['6283834558105']
-global.premium = ['6283834558105']
+global.owner = ['6282287750102']
+global.premium = ['6282287750102']
 global.packname = ''
 global.author = 'Wa :62882016646288\nYT : WANGAMING\nIG : wz_store12\nGH : WibsBotz\nTT : wz_store12'
 global.sessionName = 'WzFames'
-global.namabotnya = 'Wz Bot'
-global.namaownernya = 'Wz Store'
+global.namabotnya = 'Hani Botz'
+global.namaownernya = 'Alpin'
 global.dapkey = 'Kirbotz123'
 global.lolkey = 'Atakbotz'
 global.kirkey = 'KirBotz'
-global.wame = 'https://wa.me/62882016646288'
-global.gckirbotz = 'https://chat.whatsapp.com/L1xzgFdSo3JFu8yXeTtrbM'
-global.ownerNumber = ["62882016646288@s.whatsapp.net"]
-global.email = 'gamingwan92@gmail.com'
+global.wame = 'https://wa.me/6282287750102'
+global.gckirbotz = 'https://chat.whatsapp.com/In80GzGHd429Bw0YLK2F1K'
+global.ownerNumber = ["6282287750102s.whatsapp.net"]
+global.email = 'hani88@gmail.com'
 global.yt = 'https://youtube.com/channel/UCsQHOaoM4b1ta7bZVLvc_Pg'
 global.webkir = 'https://youtube.com/channel/UCsQHOaoM4b1ta7bZVLvc_Pg'
 global.githubkir = 'Belum ada'
@@ -39,7 +39,7 @@ global.mess = {
 
 global.limitawal = {
     premium: "Infinity",
-    free: 30
+    free: 20
 }
 
 
